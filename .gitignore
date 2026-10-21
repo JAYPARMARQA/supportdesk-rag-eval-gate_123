@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+promptfoo/.promptfoo/
+reports/*.json
+!reports/.gitkeep
+*.sqlite
+.env
